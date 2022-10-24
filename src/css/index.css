@@ -1,7 +1,7 @@
 .box1 {
     display: flex;
-    width: 400px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     background-image: url('../images/favicon.png');
     background-size: cover;
 }
